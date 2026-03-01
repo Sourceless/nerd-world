@@ -32,7 +32,7 @@ Nerd World is a **West Marches**-style campaign. That means:
 ## Character Creation
 
 - **Starting level:** Level 1 for your first character. New characters introduced later start at the average level of the party in their first session (rounded down, minimum 1).
-- **Ability scores:** Standard Array (`15, 14, 13, 12, 10, 8`) or Point Buy (27 points)
+- **Ability scores:** Standard Array (`15, 14, 13, 12, 10, 8`)
 - **Sources:** Any officially published D&D 5e sourcebook (no Unearthed Arcana)
 - **Equipment:** Starting equipment or starting gold (your choice)
 - **Premise:** All characters are mercenaries — they take on jobs for gold. Any race, class, or background is fine, but the reason your character shows up is always the job.

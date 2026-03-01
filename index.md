@@ -15,7 +15,7 @@ title: Quick Start
       <li>
         <div class="step-content">
           <strong>Create your character on D&amp;D Beyond</strong>
-          <p>Head to <a href="https://www.dndbeyond.com" target="_blank" rel="noopener">dndbeyond.com</a> and create a Level 1 character. Use Standard Array or Point Buy for ability scores. Any official sourcebook is fair game. See the <a href="{{ '/characters/' | relative_url }}">Character Creation guide</a> for details.</p>
+          <p>Head to <a href="https://www.dndbeyond.com" target="_blank" rel="noopener">dndbeyond.com</a> and create a Level 1 character. Use the Standard Array for ability scores. Any official sourcebook is fair game. See the <a href="{{ '/characters/' | relative_url }}">Character Creation guide</a> for details.</p>
         </div>
       </li>
       <li>
@@ -44,7 +44,7 @@ title: Quick Start
       <h2>About Nerd World</h2>
       <p>Nerd World is a <strong><a href="https://www.youtube.com/watch?v=oGAC-gBoX9k" target="_blank" rel="noopener">West Marches</a></strong> campaign: a shared world with a rotating cast of players and DMs. There is no overarching plot — the players drive the story. Each session is self-contained, so you can join one week and miss the next without losing the thread.</p>
       <p>Your character is a mercenary — an adventurer who takes on jobs for gold. The reason the party comes together each session is the job. What you do with the gold, and the scars, and the stories, is up to you.</p>
-      <p>The world itself was built using the <strong><a href="https://gnomestew.com/how-to-make-a-drop-map/" target="_blank" rel="noopener">Rice and Dice method</a></strong> — a handful of grains of rice scattered on a map to generate geography at random. Mountains, rivers, settlements, and dungeons emerged from that handful of rice, and adventurers have been exploring the gaps ever since.</p>
+      <p>The world itself was built using the <strong><a href="https://thecozyartteacher.com/how-to-make-a-rice-fantasy-map/" target="_blank" rel="noopener">Rice and Dice method</a></strong> — a handful of grains of rice scattered on a map to generate geography at random. Mountains, rivers, settlements, and dungeons emerged from that handful of rice, and adventurers have been exploring the gaps ever since.</p>
       <p>New players are always welcome. All you need is a character and a sense of curiosity.</p>
     </div>
   </div>

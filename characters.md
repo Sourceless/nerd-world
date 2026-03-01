@@ -28,11 +28,7 @@ Click **Create a Character** → choose **Standard** (not Quick Build).
 Any officially published D&D 5e sourcebook is allowed. If you're new, the *Player's Handbook* has everything you need. Avoid Unearthed Arcana — it's unofficial playtest content.
 
 ### 4. Set your ability scores
-Choose one of:
-- **Standard Array:** `15, 14, 13, 12, 10, 8` — assign these to your six abilities in any order.
-- **Point Buy:** 27 points to spend. Use the D&D Beyond interface — it calculates everything automatically.
-
-No rolling for stats. This keeps characters balanced across sessions with different DMs.
+Use the **Standard Array:** `15, 14, 13, 12, 10, 8` — assign these to your six abilities in any order. No rolling for stats; this keeps characters balanced across sessions with different DMs.
 
 ### 5. Choose your background
 Pick any official background. This gives you skills, tool proficiencies, and a bit of flavour.

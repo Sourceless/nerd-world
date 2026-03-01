@@ -8,11 +8,11 @@ permalink: /world/
 
 ## How Nerd World Was Made
 
-The world of Nerd World was created using the **[Rice and Dice method](https://gnomestew.com/how-to-make-a-drop-map/)**: a handful of uncooked rice grains were scattered across a blank sheet of paper. Where the grains fell became the seeds of geography — mountains, islands, lakes, forests, and settlements emerged from their random arrangement. Dice rolls filled in the details.
+The world of Nerd World was created using the **[Rice and Dice method](https://thecozyartteacher.com/how-to-make-a-rice-fantasy-map/)**: a handful of uncooked rice grains were scattered across a blank sheet of paper. Where the grains fell became the seeds of geography — mountains, islands, lakes, forests, and settlements emerged from their random arrangement. Dice rolls filled in the details.
 
 This means the world has a genuine randomness to it. No single person designed it. It grew from chance and imagination in equal measure.
 
-The world is still being discovered. Every session pushes the frontier a little further.
+The world is still being discovered. Every session pushes the frontier a little further. The map we started with is just the beginning — new locations, factions, and features should be added as play reveals them. If something doesn't fit or needs to change, it can change. The world is alive.
 
 ---
 
