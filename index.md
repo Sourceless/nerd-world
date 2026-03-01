@@ -42,8 +42,9 @@ title: Quick Start
   <div class="home-section">
     <div class="parchment">
       <h2>About Nerd World</h2>
-      <p>Nerd World is a <strong>West Marches</strong> campaign: a shared world with a rotating cast of players and DMs. There is no overarching plot — the players drive the story. Each session is self-contained, so you can join one week and miss the next without losing the thread.</p>
-      <p>The world itself was built using the <strong>Rice and Dice method</strong> — a handful of grains of rice scattered on a map to generate geography at random. Mountains, rivers, settlements, and dungeons emerged from that handful of rice, and adventurers have been exploring the gaps ever since.</p>
+      <p>Nerd World is a <strong><a href="https://www.youtube.com/watch?v=oGAC-gBoX9k" target="_blank" rel="noopener">West Marches</a></strong> campaign: a shared world with a rotating cast of players and DMs. There is no overarching plot — the players drive the story. Each session is self-contained, so you can join one week and miss the next without losing the thread.</p>
+      <p>Your character is a mercenary — an adventurer who takes on jobs for gold. The reason the party comes together each session is the job. What you do with the gold, and the scars, and the stories, is up to you.</p>
+      <p>The world itself was built using the <strong><a href="https://gnomestew.com/how-to-make-a-drop-map/" target="_blank" rel="noopener">Rice and Dice method</a></strong> — a handful of grains of rice scattered on a map to generate geography at random. Mountains, rivers, settlements, and dungeons emerged from that handful of rice, and adventurers have been exploring the gaps ever since.</p>
       <p>New players are always welcome. All you need is a character and a sense of curiosity.</p>
     </div>
   </div>

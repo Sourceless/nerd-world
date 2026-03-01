@@ -12,7 +12,7 @@ Nerd World is a **West Marches**-style campaign. That means:
 
 - **Anyone can DM.** There's no single storyteller — any player can step up and run a session.
 - **Sessions are self-contained.** Each adventure starts and ends in the same session. Every session must be completable in one sitting — no multi-session story arcs.
-- **Players drive the story.** There's no overarching plot. You decide where to explore, what to investigate, and what to leave alone.
+- **Players drive the story.** There's no overarching plot. Suggest sessions in Messenger, decide where to explore, and return to places you've been — the world changes while you're away.
 - **Flexible attendance.** Come when you can, skip when you can't. Your character simply "stays in town" between sessions.
 
 ---
@@ -35,6 +35,7 @@ Nerd World is a **West Marches**-style campaign. That means:
 - **Ability scores:** Standard Array (`15, 14, 13, 12, 10, 8`) or Point Buy (27 points)
 - **Sources:** Any officially published D&D 5e sourcebook (no Unearthed Arcana)
 - **Equipment:** Starting equipment or starting gold (your choice)
+- **Premise:** All characters are mercenaries — they take on jobs for gold. Any race, class, or background is fine, but the reason your character shows up is always the job.
 - **Backstory:** Keep it brief — one paragraph is fine. Your story happens *here*.
 
 See the [Character Creation guide]({{ '/characters/' | relative_url }}) for a step-by-step walkthrough.

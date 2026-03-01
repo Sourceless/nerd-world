@@ -6,6 +6,10 @@ permalink: /characters/
 
 # Character Creation
 
+## The Premise
+
+All characters in Nerd World are **mercenaries** — adventurers who take on jobs for gold. Your character can be any race, class, or background you like, but their reason for joining a party is always the job. Build your backstory around that: where did they come from? Why do they hire themselves out? What do they do with the coin?
+
 ## Before You Start
 
 You'll need a free account on [D&D Beyond](https://www.dndbeyond.com). D&D Beyond handles all the maths for you — it's the easiest way to build and track a 5e character.
