@@ -1,0 +1,29 @@
+title: Nerd World
+tagline: "A West Marches D&D Campaign"
+description: "A collaborative West Marches Dungeons & Dragons campaign."
+baseurl: "/nerd-world"
+url: "https://Sourceless.github.io"
+
+permalink: /sessions/:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - README.md

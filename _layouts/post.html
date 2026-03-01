@@ -1,0 +1,59 @@
+---
+layout: default
+---
+<div class="site-wrapper">
+  <div class="parchment">
+    <a href="{{ '/sessions/' | relative_url }}" class="post-back-link">All Sessions</a>
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+
+      <div class="post-meta-grid">
+        <div class="meta-item">
+          <span class="meta-label">Date</span>
+          <span class="meta-value">{{ page.date | date: "%B %-d, %Y" }}</span>
+        </div>
+
+        {% if page.dm %}
+        <div class="meta-item">
+          <span class="meta-label">Dungeon Master</span>
+          <span class="meta-value">{{ page.dm }}</span>
+        </div>
+        {% endif %}
+
+        {% if page.location %}
+        <div class="meta-item">
+          <span class="meta-label">Location</span>
+          <span class="meta-value">{{ page.location }}</span>
+        </div>
+        {% endif %}
+
+        {% if page.players %}
+        <div class="meta-item">
+          <span class="meta-label">Players ({{ page.players | size }})</span>
+          <span class="meta-value">{{ page.players | join: ", " }}</span>
+        </div>
+        {% endif %}
+
+        {% if page.xp_awarded %}
+        <div class="meta-item">
+          <span class="meta-label">XP Awarded</span>
+          <span class="meta-value">{{ page.xp_awarded }} XP</span>
+        </div>
+        {% endif %}
+      </div>
+    </header>
+
+    <div class="post-body">
+      {{ content }}
+    </div>
+
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>
