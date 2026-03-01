@@ -20,14 +20,8 @@ title: Quick Start
       </li>
       <li>
         <div class="step-content">
-          <strong>Join the Facebook Messenger group</strong>
-          <p>Ask an existing player to add you to the Nerd World Messenger chat. This is where sessions are announced, parties are formed, and stories are shared.</p>
-        </div>
-      </li>
-      <li>
-        <div class="step-content">
           <strong>Show up on the third Saturday</strong>
-          <p>Sessions run on the <strong>third Saturday of every month</strong> and last around three hours. No RSVP required — just turn up. The DM announces details in Messenger the week before.</p>
+          <p>Sessions run on the <strong>third Saturday of every month</strong> and last 3–6 hours. No RSVP required — just turn up. The DM announces details in Messenger the week before.</p>
         </div>
       </li>
       <li>

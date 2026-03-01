@@ -52,22 +52,13 @@ D&D Beyond tracks XP automatically. After each session, the DM will post how muc
 2. Click the **XP** bar at the top
 3. Type in the XP amount from the session report
 
-When you hit the XP threshold for the next level, level up **between sessions** (not mid-session).
-
-**XP thresholds:**
-
-| Level | XP Needed |
-|---|---|
-| 2 | 300 |
-| 3 | 900 |
-| 4 | 2,700 |
-| 5 | 6,500 |
+When you hit the XP threshold for the next level, level up **between sessions** (not mid-session). Standard D&D 5e XP thresholds apply — they're listed in the Player's Handbook and tracked automatically by D&D Beyond.
 
 ---
 
 ## Character Death & Retirement
 
-**Death is permanent.** If your character dies in a session, they're gone. You'll need to create a new Level 1 character before your next session.
+**Death is permanent.** If your character dies in a session, they're gone. You'll need to create a new character before your next session. New characters start at the **average level of the party in their first session** (rounded down, minimum 1), so you won't be left hopelessly behind.
 
 **Retirement** is your choice. If you want to put a character out to pasture (maybe they've achieved something, maybe you want to try something new), talk to the DM of your next session. They'll narrate a graceful exit.
 
