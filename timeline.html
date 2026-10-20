@@ -1,0 +1,45 @@
+---
+layout: page
+title: Timeline
+permalink: /timeline/
+---
+
+<h1>Timeline of the World</h1>
+
+<p>The history of Nerd World was built together in a game of <strong><a href="https://www.lamemage.com/microscope/">Microscope</a></strong>. Each player added great <em>periods</em> of history and the <em>events</em> within them, with every one marked as either <strong>Light</strong> (hopeful, prosperous) or <strong>Dark</strong> (tragic, violent). Nobody planned it; it emerged from the table.</p>
+
+<p>Treat it like any history: it is what people <em>believe</em> happened. Myths may be wrong, and sessions can uncover what really happened.</p>
+
+<div class="timeline-legend">
+  <span class="tone-badge tone-light">&#9788; Light</span>
+  <span class="tone-badge tone-dark">&#9790; Dark</span>
+</div>
+
+<ol class="timeline">
+  {% for era in site.data.timeline %}
+  <li class="timeline-period tone-{{ era.tone | default: 'none' }}{% if era.present %} is-present{% endif %}">
+    <div class="period-header">
+      <span class="period-number">{{ forloop.index }}</span>
+      <h2>{{ era.period }}</h2>
+      {% if era.tone %}<span class="tone-badge tone-{{ era.tone }}">{% if era.tone == 'light' %}&#9788; Light{% else %}&#9790; Dark{% endif %}</span>{% endif %}
+    </div>
+    {% if era.summary and era.summary != "" %}<p class="period-summary">{{ era.summary }}</p>{% endif %}
+    {% if era.events.size > 0 %}
+    <ul class="period-events">
+      {% for event in era.events %}
+      <li class="timeline-event tone-{{ event.tone | default: 'none' }}">
+        <span class="event-marker" title="{% if event.tone %}{{ event.tone | capitalize }}{% else %}Tone undecided{% endif %}">{% if event.tone == 'light' %}&#9788;{% elsif event.tone == 'dark' %}&#9790;{% else %}?{% endif %}</span>
+        <div class="event-text">{{ event.text | markdownify }}</div>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </li>
+  {% endfor %}
+</ol>
+
+<hr>
+
+<h2>Adding to History</h2>
+
+<p>The timeline lives in <code>_data/timeline.yml</code>. Periods run oldest to newest; add events under the period they belong to. If a session reveals something new about the past, add it there and let the world grow.</p>

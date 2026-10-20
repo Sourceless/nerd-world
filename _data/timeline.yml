@@ -1,0 +1,148 @@
+# The history of Nerd World, created in a game of Microscope.
+# Periods are listed oldest first; events within a period are in the order
+# they were played. Tone is "light" or "dark" (leave blank if undecided).
+
+- period: "The Dawn of Civilisation"
+  tone: light
+  summary: "The beginnings of agriculture, recorded history and permanent settlement."
+  events:
+    - tone: light
+      text: "**The origin myth of the Caldera.** A witch rained fire from the sky over the sea. A dragon rose up from the water to swallow her and exploded; his body formed the Caldera."
+    - tone: light
+      text: "**Tharizdun grows bored** and creates pockets of wild magic across the world."
+    - tone: light
+      text: "**Caerdal, the first city,** is founded between the mountains and the lakes at the centre of the largest landmass."
+
+- period: "The Golden Sands Empire"
+  tone: dark
+  summary: "Desert nomads and traders rise to rule a vast empire."
+  events:
+    - tone: light
+      text: "Magical and mystical creatures are released from wild magic portals to roam the land."
+    - tone: dark
+      text: "The largest pool of wild magic is discovered in the desert."
+    - tone: dark
+      text: "It is discovered that **a god can be created through sufficient worship.**"
+
+- period: "The Division"
+  tone: dark
+  summary: "Cities and empires become divided in worship, splintering into smaller towns of the like-minded."
+  events:
+    - tone: dark
+      text: "**The first chaos dragon** descends from the Lonely Mountain."
+    - tone: dark
+      text: "The city of Caerdal is divided between worshippers of the gods of water and the gods of fire."
+    - tone: light
+      text: "Caerdal discovers the value and power of water beyond mere survival."
+
+- period: "The Age of Sail"
+  tone: light
+  summary: "Sailing technology develops and human settlement expands out to the smaller islands."
+  events:
+    - tone: dark
+      text: "Temples to the **god of discovery** are raised, especially in coastal towns and villages."
+    - tone: light
+      text: "Caerdal becomes a city without an empire, separate from all other nations."
+    - tone: light
+      text: "The people of the Orial lands begin trading their surplus harvests with Caerdal."
+    - tone: dark
+      text: "The people of **Pulo** make contact with the mainland and are promptly colonised by the Orial."
+
+- period: "The Fae Empire"
+  tone: light
+  summary: "A wild magic event reveals that a small island in a lake holds a portal to the Feywild. The Fae build an empire."
+  events:
+    - tone: dark
+      text: "Caerdal fortifies the city and begins taxing the surrounding villages."
+    - tone: dark
+      text: "The Golden Sands Empire establishes exclusive sea trade with the Fae Empire."
+
+- period: "Pirates Rule the Seas"
+  tone: dark
+  summary: "Piracy dominates the waters between the nations."
+  events:
+    - tone: light
+      text: "The pirates are fiercely territorial and constantly fighting amongst themselves."
+    - tone: light
+      text: "Nations, towns and cities begin sharing knowledge to develop long-range ship weaponry to defend their trade ships."
+    - tone: light
+      text: "The Fae pirate **Captain Fairweather** offers protection to trade between the Golden Sands Empire and the Fae Empire."
+
+- period: "The Closing of Issland"
+  tone: dark
+  summary: "Issland becomes reclusive and closes its borders to trade."
+  events:
+    - tone: light
+      text: "The pirates retreat to **Goose Island** and hold it as a lawless stronghold."
+
+- period: "The Golden Age"
+  tone: light
+  summary: "An age of prosperity (nothing to do with the Golden Sands Empire). Having a specific god to worship for everything leads to ever-greater blessings."
+  events:
+    - tone: dark
+      text: "The major gods grow resentful of their dwindling worship."
+    - tone: dark
+      text: "The major gods petition Tharizdun for aid, and **he makes more wild magic.**"
+    - tone: light
+      text: "Weakened by infighting, the pirates reconsolidate in the Pirate Archipelago under **Captain Kennet**."
+    - tone: light
+      text: "Travellers from the main island journey to **Nympharum** to exchange knowledge with the Fae."
+
+- period: "The Ash Age"
+  tone: dark
+  summary: ""
+  events:
+    - tone: dark
+      text: "**The Blood Court** trap the Fae portal within a gigantic magic circle."
+
+- period: "The Darkness"
+  tone: dark
+  summary: "The sky went dark and nothing would grow on the land."
+  events:
+    - tone: dark
+      text: "Sea trade halts for fear of the monsters drawn out by the darkness."
+    - tone: light
+      text: "The Blood Court rise to power from the mountains as (supposedly) benevolent rulers."
+    - tone: dark
+      text: "The Blood Court demand blood from every island and people. Goose Island loses many in the fighting against this rule. Of the collectors sent to Issland, none return, and no blood is ever taken from it."
+    - tone: light
+      text: "Before the granting of the fire columns, the Darkness is the most peaceful time ever known. Empires live in harmony in order to survive, and the islands keep to themselves."
+    - tone: light
+      text: "The Golden Sands Empire is granted **columns of fire** by the fire goddess."
+    - tone: light
+      text: "People pray to the **goddess of Mercy**. More and more follow her, and the darkness begins to subside. Coincidence?"
+    - tone:
+      text: "The Fae discover they can use the portal to escape the magic circle, but when they do, they find the world plunged into a darkness they knew nothing of."
+
+- period: "The Great Sacrifice"
+  tone: dark
+  summary: "Mages perform a mass ritual to end the Darkness."
+  events:
+    - tone: dark
+      text: "**The fall of the Golden Sands Empire** and the destruction of the Crimson Priests."
+    - tone: dark
+      text: "The last chaos dragon sets the peak of the Lonely Mountain ablaze."
+    - tone: light
+      text: "The **Union of Empires** sanctions the Blood Court."
+    - tone: light
+      text: "The empires, the pirates included, sign agreements establishing stable trade and peace."
+
+- period: "The Present Day"
+  tone: dark
+  summary: "In the wake of famine and disease, militias are disgruntled, the population is unhappy and rulers are weakened."
+  present: true
+  events:
+    - tone: dark
+      text: "The hedonistic **Cult of Trevor** begins to rise."
+    - tone: dark
+      text: "A new potion is spreading among the fairies. They act drunk, dance, and join the Cult of Trevor."
+    - tone: dark
+      text: "A wild magic accident forces the people of Issland to begin seeking aid from outside."
+    - tone: light
+      text: "**Kierdell** becomes the capital city of the main island, uniting it."
+    - tone: light
+      text: "**The Day of Light** becomes a worldwide day of festivity and celebration."
+    - tone: dark
+      text: "The fall of the priesthood leaves a power vacuum in the Golden Sands, sparking political and social rivalry between mages and other priests."
+    - tone: light
+      text: "Using the Fae portal as a model, wild magic sites are stabilised into **portals to new planes and planets.**"

@@ -40,9 +40,9 @@ Great powers operate in the shadows of this world — or perhaps in plain sight.
 
 ## History & Lore
 
-*Coming after Session Zero.*
+The full history of the world, from the first city to the present day, is on the **[Timeline]({{ '/timeline/' | relative_url }})**.
 
-History is written by the survivors. As sessions are played and reports are posted, this section will fill with legends, rumours, and hard-won facts.
+History is written by the survivors. As sessions are played and reports are posted, legends, rumours, and hard-won facts will be added to it.
 
 ---
 

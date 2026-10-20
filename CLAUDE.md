@@ -16,6 +16,7 @@ Push to `main`. GitHub Actions runs `.github/workflows/pages.yml`, which uses `a
 - **`_sass/nerd-world.scss`** — all styles in one file. Entry point is `assets/css/main.scss` (just `@import "nerd-world"`).
 - **`_layouts/`** — four layouts: `default` (base), `home` (front page), `page` (wraps content in `.parchment` div), `post` (session reports with front matter metadata).
 - **`_includes/`** — `head.html` (Google Fonts + CSS), `header.html` (sticky nav), `footer.html`.
+- **`_data/timeline.yml`** — world history from the Microscope game (periods → events, each tone `light`/`dark`). Rendered by `timeline.html` at `/timeline/`.
 - **`_posts/`** — session reports. Filename must be `YYYY-MM-DD-short-title.md`. Permalink pattern: `/sessions/:year/:month/:day/:title/`.
 
 ## Session report front matter
