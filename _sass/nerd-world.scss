@@ -568,6 +568,80 @@ hr {
   &:hover { color: $crimson-dark; }
 }
 
+// --- Timeline (Microscope history) ---
+.tone {
+  display: inline-block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.1em 0.6em;
+  border-radius: 3px;
+  vertical-align: middle;
+}
+
+span.tone-light {
+  background: rgba($gold, 0.25);
+  color: darken($gold, 30%);
+  border: 1px solid rgba($gold, 0.6);
+}
+
+span.tone-dark {
+  background: rgba($crimson, 0.12);
+  color: $crimson;
+  border: 1px solid rgba($crimson, 0.4);
+}
+
+.timeline {
+  margin-top: 2rem;
+
+  .period {
+    border-left: 4px solid $border-parchment;
+    padding-left: 1.25rem;
+    margin-bottom: 2rem;
+
+    &.tone-light { border-left-color: $gold; }
+    &.tone-dark { border-left-color: $crimson; }
+
+    h2 {
+      margin-top: 0;
+      border-bottom: none;
+      font-size: 1.4rem;
+
+      .tone { margin-left: 0.5em; }
+    }
+
+    .period-desc {
+      font-style: italic;
+      color: $text-muted;
+      margin-bottom: 0.75em;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    li {
+      position: relative;
+      padding-left: 1.4rem;
+
+      &::before {
+        content: '◆';
+        position: absolute;
+        left: 0;
+        font-size: 0.8em;
+        top: 0.15em;
+        color: $border-parchment;
+      }
+
+      &.tone-light::before { color: darken($gold, 10%); }
+      &.tone-dark::before { color: $crimson; }
+    }
+  }
+}
+
 // --- Utility ---
 .text-center { text-align: center; }
 .mt-0 { margin-top: 0; }

@@ -40,9 +40,9 @@ Great powers operate in the shadows of this world — or perhaps in plain sight.
 
 ## History & Lore
 
-*Coming after Session Zero.*
+The history of the world, from the first farmers to the present day, was built by the players in a game of Microscope. See the **[full Timeline]({{ '/timeline/' | relative_url }})**.
 
-History is written by the survivors. As sessions are played and reports are posted, this section will fill with legends, rumours, and hard-won facts.
+History is written by the survivors. As sessions are played and reports are posted, this section will fill with further legends, rumours, and hard-won facts.
 
 ---
 
