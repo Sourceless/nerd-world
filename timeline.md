@@ -8,7 +8,7 @@ permalink: /timeline/
 
 This history was built by the players in a game of **Microscope**, a collaborative worldbuilding game. Each period and event is marked <span class="tone tone-light">Light</span> or <span class="tone tone-dark">Dark</span> depending on whether it was a good or a grim turn for the world.
 
-Treat it as the established backdrop of Nerd World. DMs are free to build on it, but please don't contradict it. See [The World]({{ '/world/' | relative_url }}) for more.
+Treat this as the established backdrop of Nerd World. DMs are free to build on it, but please don't contradict it. Note that Caerdal and Kierdell are the same city, with the spelling changing over time. See [The World]({{ '/world/' | relative_url }}) for more.
 
 <div class="timeline">
 
@@ -129,7 +129,7 @@ Treat it as the established backdrop of Nerd World. DMs are free to build on it,
 <li class="tone-dark">The hedonistic cult of Trevor begins to rise.</li>
 <li class="tone-dark">A new potion is spreading through the fairies. They act drunk, dance, and join the cult of Trevor.</li>
 <li class="tone-dark">A wild magic accident forces the people of Issland to start seeking aid.</li>
-<li class="tone-light">Kierdell becomes the capital city of the main island, uniting the island.</li>
+<li class="tone-light">Kierdell (the city once spelled Caerdal) becomes the capital city of the main island, uniting the island.</li>
 <li class="tone-light">The Day of Light becomes a worldwide day of festivity and celebration.</li>
 <li class="tone-dark">The power vacuum in the Golden Sands following the fall of the priesthood leads to political and social competition between mages and other priests.</li>
 <li class="tone-light">Using the Fae portal as an example, wild magic locations are stabilised into portals to new planes and planets.</li>
